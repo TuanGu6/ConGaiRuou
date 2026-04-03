@@ -10,3 +10,4 @@ contract MessageBox {
         text = _text;
     }
 }
+Hello all
